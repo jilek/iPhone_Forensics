@@ -1,5 +1,21 @@
 # iPhone_Forensics
 
+  + [1. Overview](#Overview)
+  + [2. Executive Summary](#Executive-Summary)
+  + [3. Equiment and Tools](#Equiment-and-Tools)
+  + [4. Evidence to Establish Personas](#Evidence-to-Establish-Personas)
+  + [5. Evidence relating to theft of valuable stamps](#Evidence-relating-to-theft-of-valuable-stamps)
+  + [6. Evidence relating to the defacement of museum art](#Evidence-relating-to-the-defacement-of-museum-art)
+  + [7. Plot Timeline](#Plot-Timeline)
+  + [8. Conclusion](#Conclusion)
+  + [A. Correspondence Evidence](#Appendix-A-Correspondence-Evidence)
+  + [B. WiFi and GPS Location information](#Appendix-B-WiFi-and-GPS-Location-information)
+
+
+
+
+
+
 ## Overview
 
 This project involved using the Autopsy tool (https://www.autopsy.com/) to perform forensics on an image captured from an Apple iPhone. The actual case report is provided as a Word file in the GitHub repo as [Case Report National Gallery DC](iPhone_Forensics_Report.docx). The significant details are included here in this README file. We performed the role of investigator as 'Digitech, Inc'. The case involved a conspiracy to steal valuable collectable stamps from the National Gallery in Washington, DC. We were given a forensic image of an iPhone device, and gathered evidence to support the criminal investigation.
@@ -143,9 +159,9 @@ Evidence found on Tracy’s iPhone indicated the following:
 +	Tracy is notified that a ‘Gift Card’ for $1000 has been set up for her. This is most likely payment from either Carry via Alex, or directly from Alex. The website URL is purposely crafted to look like it is from Target, but is actually located in the trdt.biz domain. No information on that URL is available at this time.
 +	There are three clusters of WiFi and Cell location info, but it’s not clear what the significance is. Further analysis would be needed to correlate the location info and timing with the email and SMS exchanges.
 
-## Appendix A - Correspondence Evidence
+## Appendix A Correspondence Evidence
 
-This subsection will provide an amalgamation of the email and SMS corresponce evidence which was obtained from the forensic image file of the iPhone. 
+This subsection will provide an amalgamation of the email and SMS corresponce evidence which was obtained from the forensic image file of the iPhone.
 
 ![correspondence1.png](Images/correspondence1.png)
 
@@ -160,7 +176,7 @@ This subsection will provide an amalgamation of the email and SMS corresponce ev
 ![correspondence6.png](Images/correspondence6.png)
 
 
-## Appendix B - WiFi and GPS Location information
+## Appendix B WiFi and GPS Location information
 
 WiFi locations gathered from /vol5/root/Library/Caches/locationd/consolidated.db and plotted using maps.google.com
 

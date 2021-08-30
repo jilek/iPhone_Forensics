@@ -2,7 +2,7 @@
 
   + [1. Overview](#Overview)
   + [2. Executive Summary](#Executive-Summary)
-  + [3. Equiment and Tools](#Equiment-and-Tools)
+  + [3. Equiment and Tools](#Equipment-and-Tools)
   + [4. Evidence to Establish Personas](#Evidence-to-Establish-Personas)
   + [5. Evidence relating to theft of valuable stamps](#Evidence-relating-to-theft-of-valuable-stamps)
   + [6. Evidence relating to the defacement of museum art](#Evidence-relating-to-the-defacement-of-museum-art)
